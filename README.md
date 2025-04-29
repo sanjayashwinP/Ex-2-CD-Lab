@@ -129,7 +129,7 @@ int yywrap() {
 }
 ```
 # OUTPUT
-![Screenshot from 2025-04-15 14-17-20](https://github.com/user-attachments/assets/ef736dca-3b7c-4948-8800-810fb109b49f)
+![image](https://github.com/user-attachments/assets/92e43e92-e84a-401a-bcca-60e520bb0367)
 
 
 # RESULT
